@@ -1,0 +1,2 @@
+0 Garbage
+1 not a garbage
