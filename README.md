@@ -13,11 +13,11 @@ Welcome to the Trash Management Web App, a state-of-the-art solution for effecti
 - **Intuitive Dashboard**: A clean and user-friendly interface makes navigation easy, allowing users to utilize the app's features effortlessly.
 
 
-**Installation instructions :-**
-Clone the repo using       git clone https://github.com/SahilpRana/Team-TMS.git
-May have to delete and reinstall node_modules using npm i in both Frontend and Backend 
-Create a new directory "uploads" inside Backend
-First launch the Backend with npm start and then the Frontend
+##**Installation instructions :-**
+- Clone the repo using    git clone https://github.com/SahilpRana/Team-TMS.git    
+- May have to delete and reinstall node_modules using npm i in both Frontend and Backend    
+- Create a new directory "uploads" inside Backend   
+- First launch the Backend with npm start and then the Frontend   
 
 
 ## Getting Started
