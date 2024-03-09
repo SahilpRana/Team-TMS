@@ -15,9 +15,11 @@ Welcome to the Trash Management Web App, a state-of-the-art solution for effecti
 
 ##**Installation instructions :-**
 - Clone the repo using    git clone https://github.com/SahilpRana/Team-TMS.git    
-- May have to delete and reinstall node_modules using npm i in both Frontend and Backend    
+- May have to delete and reinstall node_modules using npm i in both Frontend and Backend
+- Install react-scripts using npm install react-scripts
 - Create a new directory "uploads" inside Backend   
-- First launch the Backend with npm start and then the Frontend   
+- First launch the Backend with npm start and then the Frontend
+
 
 
 ## Getting Started
