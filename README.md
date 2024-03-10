@@ -1,11 +1,10 @@
 
 # Trash Management Web App with Live Location and OpenCV Garbage Detection
 ## Overview
-Welcome to the Trash Management Web App, a state-of-the-art solution for effective garbage disposal and management. This web application integrates live location tracking and OpenCV-based garbage detection to optimize waste management processes. Users can actively contribute to environmental cleanliness by easily identifying and reporting trash, facilitating swift cleanup efforts.
+Welcome to the Trash Management Website, a state-of-the-art solution for effective garbage disposal and management. This web application integrates live location tracking and OpenCV-based garbage detection to optimize waste management processes. Users can actively contribute to environmental cleanliness by easily identifying and reporting trash, facilitating swift cleanup efforts.
 ## Features
 ### 1. Live Location Tracking
 - **Real-time Location Sharing**: Users can share their live location, enabling municipal authorities and waste management teams to pinpoint areas that need immediate attention.
-- **Customizable Notifications**: Receive notifications about nearby trash collection points, scheduled pickups, and other pertinent updates based on your location.
 ### 2. OpenCV Garbage Detection
 - **Smart Garbage Recognition**: The app employs OpenCV for intelligent garbage detection, automatically identifying and categorizing various types of waste items.
 - **User-Friendly Reporting**: Report trash with a simple photo upload, and let the app categorize and provide relevant information about the detected waste.
